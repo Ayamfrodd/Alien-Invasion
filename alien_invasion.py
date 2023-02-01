@@ -1,6 +1,6 @@
 import sys,pygame
 
-class AlienInvasion():
+class AlienInvasion:
     """Overall class to manage assets and behaviour."""
     
     def __init__(self):
